@@ -52,3 +52,9 @@ Format per temuan: tanggal — repo + link — bidang — ringkasan — kegunaan
 - **DietrichGebert/ponytail** — https://github.com/DietrichGebert/ponytail — workflow — Skill yang memaksa agent menaiki "tangga YAGNI": selalu pilih solusi paling minimal yang benar, tidak over-engineering. — **Berguna** (konsep): sejalan aturan user "jangan buang waktu buat hal yang nggak diminta".
 - **mksglu/context-mode** — https://github.com/mksglu/context-mode — hemat konteks — Plugin lokal yang menahan output tool di luar context window agent (sandbox + pencarian SQLite FTS5), klaim hemat konteks sampai 99%. 34,4rb stars. — **Berguna** (konsep): user di plan gratis; manajemen konteks = manajemen credit.
 - **affaan-m/everything-claude-code (ECC)** — https://github.com/affaan-m/everything-claude-code — konfigurasi agent — Koleksi lengkap konfigurasi Claude Code: agents, skills, hooks, commands, rules, dari pemenang hackathon Anthropic. — **Kurang berguna** langsung (bukan untuk Muse), tapi bisa jadi inspirasi struktur rules/skill.
+
+---
+
+## 2026-11-25 — Sumber: video TikTok @xismusx tentang FreeLLMAPI (dibagikan user untuk dipelajari)
+
+- **tashfeenahmed/freellmapi** — https://github.com/tashfeenahmed/freellmapi — AI gratis — Satu endpoint /v1 yang menggabungkan free tier 87 provider LLM (Gemini, Groq, Mistral, NVIDIA, OpenRouter, dll): klaim 10,1 miliar token gratis/bulan dari 1.313 endpoint model, dengan routing/failover otomatis kalau satu provider penuh. 58,1rb stars. — **Berguna** (konsep/cadangan): user sensitif credit dan di plan gratis; tapi ini untuk Claude Code/CLI (bukan Muse), dan tetap butuh API key gratis dari tiap provider (daftar sendiri). Tidak dipasang — hanya dicatat.
