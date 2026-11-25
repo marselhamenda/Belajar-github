@@ -99,3 +99,14 @@ Tema video: repo gratis yang kodenya Rp0, lalu dijual sebagai jasa. Angka stars 
 - **OpenHands/OpenHands** — https://github.com/OpenHands/OpenHands — agent coding — Platform pengembangan berbasis AI agent yang menulis kode sendiri (AI programmer). 94,3rb stars. — **Berguna** (konsep/komparasi): pembanding arsitektur agent coding; user sudah dilayani Muse + bawahan.
 - **gitroomhq/postiz-app** — https://github.com/gitroomhq/postiz-app — sosmed — Tool penjadwalan media sosial agentic: kelola/jadwalkan banyak akun klien (Instagram/TikTok/YouTube) dari satu tempat. 42,3rb stars. — **Berguna**: user mengelola banyak akun (Kantong Aman, Sell, Sahabat Kiko, Pr Social) — penjadwalan terpusat bisa menghemat waktu; posting otomatis tetap dibatasi aturan tiap platform.
 - **xiamuceer-j/MuMuAINovel** — https://github.com/xiamuceer-j/MuMuAINovel — novel — Asisten penulisan novel berbasis AI (GPL-3.0): alur karakter → alur cerita → bab, membantu merapikan novel untuk diterbitkan di platform novel online. 3,3rb stars. — **Berguna**: relevan langsung dengan proyek novel user "Chat Tengah Malam" (target Fizzo).
+
+---
+
+## 2026-11-25 — Sumber: video TikTok @herlambangawn "9 Repo GitHub pengganti software berbayar" (DITONTON penuh)
+
+Lima dari 9 repo di video ini sudah dicatat sebelumnya atas permintaan langsung user (Open Generative AI, VoiceStudio, OpenSEO, AppFlowy, OpenProject — video inilah sumber daftar nama itu). Empat sisanya baru:
+
+- **OpenWhispr/openwhispr** — https://github.com/OpenWhispr/openwhispr — suara — Aplikasi dikte voice-to-text (pengganti Wispr Flow): model lokal (NVIDIA Parakeet/Whisper) atau cloud dengan API key sendiri, privacy-first, cross-platform, bisa offline. 12,1rb stars. — **Berguna**: dikte lokal gratis untuk naskah/caption tanpa mengetik.
+- **calcom/cal.diy** — https://github.com/calcom/cal.diy — produktivitas — Infrastruktur penjadwalan open-source (pengganti Calendly), repo open-source Cal.com untuk pemakaian pribadi: halaman booking yang tersinkron Google Calendar/Outlook. 50,3rb stars. — **Kurang berguna** saat ini: user belum menjual jasa konsultasi/booking; relevan nanti kalau freelance-nya jalan.
+- **chatwoot/chatwoot** — https://github.com/chatwoot/chatwoot — customer support — Platform live-chat & omni-channel desk open-source (pengganti Intercom/Zendesk): satu inbox untuk web, email, WhatsApp, Instagram. 40,5rb stars. — **Kurang berguna** saat ini: untuk bisnis dengan volume chat pelanggan; user belum di tahap itu.
+- **CapSoftware/Cap** — https://github.com/CapSoftware/Cap — video — Perekam layar open-source (pengganti Loom): rekam layar + kamera + mic untuk demo produk/tutorial, share lewat link. ★24,6rb menurut teks di video. — **Berguna**: untuk video tutorial/demo (mis. tutorial seperti video Pexel) dengan tampilan profesional.
