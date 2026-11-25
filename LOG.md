@@ -58,3 +58,9 @@ Format per temuan: tanggal — repo + link — bidang — ringkasan — kegunaan
 ## 2026-11-25 — Sumber: video TikTok @xismusx tentang FreeLLMAPI (dibagikan user untuk dipelajari)
 
 - **tashfeenahmed/freellmapi** — https://github.com/tashfeenahmed/freellmapi — AI gratis — Satu endpoint /v1 yang menggabungkan free tier 87 provider LLM (Gemini, Groq, Mistral, NVIDIA, OpenRouter, dll): klaim 10,1 miliar token gratis/bulan dari 1.313 endpoint model, dengan routing/failover otomatis kalau satu provider penuh. 58,1rb stars. — **Berguna** (konsep/cadangan): user sensitif credit dan di plan gratis; tapi ini untuk Claude Code/CLI (bukan Muse), dan tetap butuh API key gratis dari tiap provider (daftar sendiri). Tidak dipasang — hanya dicatat.
+
+---
+
+## 2026-11-25 — Sumber: permintaan langsung user ("Open generative ai — tambahin di github dan pelajari")
+
+- **Anil-matcha/Open-Generative-AI** — https://github.com/Anil-matcha/Open-Generative-AI — video/gambar AI — Studio open-source (self-hosted, MIT) untuk generate gambar & video AI: 600+ model dalam 14 studio (Image, Video, Audio, Lip Sync, Cinema, Workflows), tanpa filter konten dan tanpa biaya langganan aplikasinya. 36,2rb stars. — **Berguna, dengan catatan penting**: aplikasinya memang gratis, tapi mesin generate-nya memakai API MuAPI yang berbasis kredit (berbayar per generate) — jadi ini BUKAN jalan gratis untuk video AI; yang gratis hanya dashboard/studionya. Relevan kalau suatu saat user punya budget kredit API; untuk sekarang (modal nol) belum bisa menggantikan pipeline video yang ada.
